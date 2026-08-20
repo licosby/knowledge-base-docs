@@ -5,4 +5,4 @@ This is an example doc. Docs are Markdown files inside the `content/` directory.
 
 ---
 
-Return to the [[The Elf Lab]]
+Return to the [[index]]
