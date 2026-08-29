@@ -1,9 +1,9 @@
 ---
-title: The Elf Lab
+title: Obsessive Christmas Disorder
 ---
-## The Elf Lab
+## Obsessive Christmas Disorder
 
-The Elf Lab is my little corner of holiday creativity, where I collect everything I’ve learned from years of making Christmas crafts. This knowledge base brings together the things I love most: designing ornaments and decorations, building Christmas village displays, choosing the perfect handmade gifts for people I care about, finishing projects with detail and sparkle, and creating 3D‑printed holiday pieces. Each page is a tiny encyclopedia entry written from the perspective of someone who actually makes these things by hand. My goal is simply to share how traditional crafting and modern tools can come together to make festive ideas feel personal and meaningful.
+Obsessive Christmas Disorder is a small wikipedia style site that shares crafting ideas, decorations, and some holiday trivia to stump your friends and family with at your next holiday party.
 
 ##Main Categories
 - [[holiday-decor/index|Holiday Decor]]
