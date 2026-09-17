@@ -117,7 +117,11 @@ A number of celbreties celebrate their birthdays on Christmas Eve and Christmas 
 - [[history-of-christmas-decorations | History of Christmas Decorations]]
 - [[christmas-around-the-world | Christmas Around the World]]
 - [[origin-of-today's-american-santa | Origin of Today’s American Santa]]
+<<<<<<< HEAD
+- [[holiday-history/united-states-christmas-consumerism| United States Christmas Consumerism]]
+=======
 
+>>>>>>> parent of 6dd179b (created: us christmas consumerism page)
 ## Source
 [^gubbio-record]: **Italia.it – 6 Christmas World Records in Italy**  
 https://www.italia.it/en/italy/things-to-do/6-christmas-world-records-in-italy

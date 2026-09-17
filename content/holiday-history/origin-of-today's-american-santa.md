@@ -57,13 +57,12 @@ Check out Santa’s Village in Finland: [https://santaclausvillage.info](https:/
 
 
 ---
-
-
 ## Related Pages
 - [[history-of-christmas-trees | History of Christmas Trees]]
 - [[history-of-christmas-decorations | History of Christmas Decorations]]
 - [[christmas-pop-culture | Christmas Pop Culture]]
 - [[christmas-around-the-world | Christmas Around the World]]
+- [[holiday-history/united-states-christmas-consumerism| United States Christmas Consumerism]]
 
 ## Sources
 [^locelves]: Library of Congress. “Santa Claus.” https://www.loc.gov/folklife/holidaycrafts/SantaClaus.html

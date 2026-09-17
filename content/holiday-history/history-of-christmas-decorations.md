@@ -52,7 +52,9 @@ These movies capture the fun, the frustration, and the spectacle of Christmas li
 - [[history-of-christmas-trees | History of Christmas Trees]]
 - [[christmas-pop-culture| Christmas Pop Culture]]
 - [[christmas-around-the-world | Christmas Around the World]]
-- [[origin-of-santa | Origin of Today’s American Santa]]
+
+- [[origin-of-today's-american-santa | Origin of Today’s American Santa]]
+- [[holiday-history/united-states-christmas-consumerism| United States Christmas Consumerism]]
 
 ##References
 [^edison]: Edison’s company displayed the first electric Christmas lights in the 1880s.  

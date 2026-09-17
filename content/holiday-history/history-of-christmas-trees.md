@@ -40,6 +40,7 @@ Queen Victoria and Prince Albert are the reason Christmas trees became popular a
 - [[christmas-pop-culture| Christmas Pop Culture]]
 - [[christmas-around-the-world | Christmas Around the World]]
 - [[origin-of-today's-american-santa | Origin's of Today's American Santa]]
+- [[holiday-history/united-states-christmas-consumerism| United States Christmas Consumerism]]
 
 ---
 

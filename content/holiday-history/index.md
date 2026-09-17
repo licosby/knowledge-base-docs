@@ -15,6 +15,8 @@ This page explains where our favorite holiday traditions came from and how they 
 - [[christmas-pop-culture | Christmas Pop Culture]]
 - [[christmas-around-the-world | Christmas Around the World]]
 - [[origin-of-today's-american-santa | Origin's of Today's American Santa]]
+- [[holiday-history/united-states-christmas-consumerism| United States Christmas Consumerism]]
+
 ---
 
 ## Related Categories
