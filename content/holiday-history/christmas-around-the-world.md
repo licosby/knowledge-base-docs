@@ -178,6 +178,8 @@ Boxing Day is celebrated on December 26 and is a big part of the Christmas seaso
 - [[history-of-christmas-decorations | History of Christmas Decorations]]
 - [[christmas-pop-culture | Christmas Pop Culture]]
 - [[origin-of-today's-american-santa | Origin of Today’s American Santa]]
+- [[holiday-history/united-states-christmas-consumerism| United States Christmas Consumerism]]
+
 
 ---
 

@@ -52,7 +52,6 @@ These movies capture the fun, the frustration, and the spectacle of Christmas li
 - [[history-of-christmas-trees | History of Christmas Trees]]
 - [[christmas-pop-culture| Christmas Pop Culture]]
 - [[christmas-around-the-world | Christmas Around the World]]
-
 - [[origin-of-today's-american-santa | Origin of Today’s American Santa]]
 - [[holiday-history/united-states-christmas-consumerism| United States Christmas Consumerism]]
 
