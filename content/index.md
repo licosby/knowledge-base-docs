@@ -1,5 +1,6 @@
 ---
 title: Obsessive Christmas Disorder
+created: 2026-08-19
 ---
 ## Obsessive Christmas Disorder
 
@@ -7,13 +8,9 @@ Obsessive Christmas Disorder is a holiday knowledge base focused on the history,
 
 ##Main Categories
 - [[holiday-decor/index|Holiday Decor]]
-
 - [[christmas-villages/index|Christmas Villages]]
-
 - [[gift-giving/index|Gift Giving]]
-
 - [[present-presentation/index|Present Presentation]]
-
 - [[holiday-history/index|Holiday History]]
 
 
