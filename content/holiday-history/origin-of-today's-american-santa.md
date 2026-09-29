@@ -1,74 +1,166 @@
 ---
 title: Origin of Today's American Santa
+created: 2026-09-17
+updated: 2026-09-29
 ---
+# History of Christmas Consumerism in America
 
-# Origin of Today’s American Santa
+## Introduction
 
-## Overview
-Santa Claus did not appear all at once. The version we know today is a mix of centuries of stories, traditions, and lore passed down from generation to generation. Early ideas came from European folklore, and later American writers and illustrators shaped him into the cheerful figure with a red suit, rosey cheeks, a white beard, and a sleigh with flying reindeer. This page looks at how those pieces came together and how Santa became one of the most recognizable holiday characters in the world.
+Post‑war America transformed Christmas into something much bigger than cookies, carols, and cozy gatherings. Macy’s helped kick off the modern shopping craze with its parade and Santa visits, turning holiday excitement into a full retail event. Catalogs brought toys and gift ideas straight into living rooms, giving families an easy way to shop without leaving home. Malls took things even further by turning Christmas shopping into an experience filled with decorations, music, and Santa meet‑and‑greets. Then online shopping — especially Amazon — reshaped everything again, creating a digital holiday rush that starts long before December.
 
-> “He was dressed all in fur from his head to his foot, and his clothes were all tarnished with ashes and soot.”
-> From A Visit from Saint Nicholas, often called The Night Before Christmas
----
-
-## Saint Nicholas
-### Early Traditions
-Saint Nicholas began as a real bishop known for kindness and secret acts of generosity. His story spread across Europe and inspired traditions that honored his care for children and families. People celebrated him with small treats, simple decorations, and quiet acts of giving. Each region added its own customs, such as placing shoes by the door or lighting candles during winter festivals. These traditions kept the memory of Saint Nicholas alive and created a sense of warmth during the cold season. He remained a symbol of compassion and hope, and his legacy shaped many early winter celebrations. These customs stayed focused on the real historical figure and the values he represented.
-
+Christmas in America is no longer just a holiday. It’s one of the biggest end‑of‑year shopping seasons and a major boost to the national economy.
 
 ---
+## Macy’s and the Start of Christmas Consumerism
 
-## Evolution of Santa
-### From Saint to Mythical Figure
-The shift from Saint Nicholas to the American Santa began when European families brought their winter traditions to the United States. These customs blended with new ideas and inspired writers to imagine a magical gift giver who arrived on Christmas Eve. The poem A Visit from Saint Nicholas introduced a sleigh, reindeer, and a joyful personality that changed how people pictured him. Artists expanded this image by drawing a round and friendly figure with a long beard and a warm coat. Over time he became a mythical character rather than a historical saint. This new version of Santa represented imagination, generosity, and holiday excitement, and he quickly became a central part of American Christmas celebrations.
+### Macy’s Parade and Holiday Marketing
+- Started in 1924  
+- Estimated to cost several million dollars per year[^1] 
+- Floats take 4 to 9 months to assemble and cost between $30,000 and $100,000[^2]  
+- Balloons use between 300,000 and 700,000 cubic feet of helium and cost around $500,000 to fill[^3]
+### Window Shopping
+
+![[assets/images/macy-2025-window.jpg]]
+*Macy’s 2025 holiday windows. Copyright Deborah Abrams Kaplan*
+
+Macy’s Christmas windows are one of New York City’s most beloved holiday traditions. The idea began in 1874 when R. H. Macy introduced decorated Christmas windows at his 14th Street store, turning simple storefront glass into a full seasonal attraction. Today, the windows are unveiled the week before Thanksgiving and draw huge crowds who come to see the detailed scenes, moving figures, and bright seasonal colors.
+
+The design process takes about eight months and involves artists, engineers, and builders working together to create displays that feel magical and modern. Macy’s 2025 windows continued this tradition with elaborate storytelling and eye‑catching visuals that filled the sidewalks with excited visitors. These windows show how Macy’s helped shape Christmas consumer culture by turning shopping into an experience families look forward to every year.[^4][^5][^6][^7]
+
+---
+### Santa Visits at Macy’s
+
+Macy’s Santa is one of the most famous Santas in the country thanks to decades of tradition and the store’s huge holiday influence. Macy’s was one of the first places to make visiting Santa a regular part of Christmas shopping, turning the idea of sitting with Santa into a full holiday experience.
+
+Families visit Santaland to walk through decorated rooms, see animated displays, and meet Santa in a cozy setting. Santa has been part of Macy’s holiday season since 1861, when the store advertised that Santa came to Herald Square to stock counters with Christmas gifts. Santa is usually available from late November through Christmas Eve. Reservations are required and can be made online, and visiting Santa is free though photos may cost money.[^8][^9]
+#### Santaland Details
+- When Santa is there: Late November through December 24  
+- Reservations: Required through Macy’s Santaland website  
+  [Click here to reserve your visit with Santa](https://www.macys.com/s/holiday-celebrations/nyc-santaland/)  
+- Cost: Visiting Santa is free, photos cost extra  
+- What else is in Santaland: Decorated walkthrough, animated displays, themed rooms, holiday music
+
+---
+### Miracle on 34th Street
+
+The film *Miracle on 34th Street* strengthened Macy’s connection to Christmas traditions and boosted the store’s holiday reputation. Reports from the time noted that Dear Santa letters increased in 1947, rising about twenty‑five percent over the previous year. The movie’s portrayal of Macy’s Santa made the store feel like the center of Christmas magic and helped shape how families viewed holiday shopping in New York City.
+### Letters to Santa
+
+![[assets/images/santa-letters.jpg|400x800]]
+
+Letters to Santa remain a major part of Christmas traditions in America. Even in the digital age, children continue to send handwritten letters filled with wishes and drawings. In 2013, more than one million letters were sent by American children alone. These letters show how the tradition has stayed strong across generations and how stories like *Miracle on 34th Street* helped popularize the idea of writing directly to Santa.[^11][^10]
+
+---
+### Sears Wish Book
+
+The Sears Wish Book became one of the most iconic Christmas catalogs in America. Families waited for it every year because it was packed with toys, games, clothes, and holiday decorations. Articles remembering the Wish Book describe how kids would spend hours circling their favorite items and dreaming about Christmas morning.
+
+The catalog defined holiday shopping for millions and helped Sears become a major part of American Christmas traditions. Even today, people share scans of old Wish Books online because they bring back memories of classic toys and simpler holiday seasons.[^13][^14][^15]
+
+---
+### Montgomery Ward Catalog
+
+Montgomery Ward played a huge role in early catalog shopping long before Sears became famous for it. Their catalogs helped families order gifts from anywhere in the country, especially in rural areas without big stores. Montgomery Ward’s catalog also became famous for introducing Rudolph the Red‑Nosed Reindeer as a holiday character. The Chicago History Museum notes that Ward’s catalog business shaped American retail by making mail‑order shopping a normal part of Christmas.[^16][^17]
+
+### Rudolph
+
+Rudolph the Red‑Nosed Reindeer actually started as a Montgomery Ward Christmas giveaway. The store asked Robert L. May to write a holiday story they could print and hand out to families. The booklet became incredibly popular and later inspired the famous song and TV special.  
+
+[Read the Original 1939 Rudolph Booklet (Montgomery Ward)](https://archive.org/details/rudolphtherednos00mayr)
+
+---
+### Toys R Us Holiday Catalogs
+
+Toys R Us became a major part of Christmas shopping in the late twentieth century. Their holiday catalogs were filled with the newest toys and helped kids see what was popular each year. The Los Angeles Times explains how Toys R Us shaped toy trends and how their catalogs influenced holiday buying before the company’s decline. Many families remember flipping through these catalogs just like the Sears Wish Book, making Toys R Us a big part of modern Christmas nostalgia.[^20]
 
 
-### Introduction of Elves
-Elves became part of Santa’s world when writers in the eighteen hundreds decided he needed help making toys.[^locelves] Early folklore described elves as tiny magical creatures who lived in forests, but American storytellers turned them into cheerful helpers who worked at the North Pole. Illustrators began drawing them with pointed ears, bright outfits, and curled shoes, and children loved the idea of a busy workshop filled with tiny workers. The workshop was meant to feel magical and fun, not serious or harsh, and it helped explain how Santa could prepare gifts for so many children. Over time these playful elves became one of the most recognizable parts of Santa’s story and appear in books, movies, and decorations every Christmas.
+![[assets/images/Toys-R-Us-Ad-1987.pdf#height=840]]
 
-### The Red Nosed Reindeer
-Rudolph became part of Christmas history thanks to a story written in 1939 for Montgomery Ward.[^rudolph] The company asked Robert L. May to create a simple holiday booklet they could give to families during the season. May wrote about a young reindeer who felt different because of his bright red nose. The story followed Rudolph as he discovered that what made him different also made him special. Children loved the message and the character, and the booklet became incredibly popular. Rudolph soon appeared in songs, books, and holiday decorations. His story grew even more famous when the stop motion television special was released in the nineteen sixties. Today Rudolph is one of the most beloved Christmas characters and his tale continues to be shared with new generations every year.
 
 ---
 
-## Modern Santa
-### Coca‑Cola Influence
+## Shopping Malls and the New Holiday Experience
 
-![Sundblom Santa](assets/images/sundblom-santa.jpg)
-*Haddon Sundblom’s iconic Coca Cola Santa painting.*
+### Growth of Suburban Malls
 
-The modern image of Santa became popular in the early nineteen hundreds, and Coca Cola helped spread it everywhere.[^coke] The company wanted a warm and friendly holiday character for its winter advertisements, so artist Haddon Sundblom created a cheerful Santa with a bright red suit, rosy cheeks, and a joyful smile. His paintings appeared in magazines, store displays, and posters across the country. People loved this version of Santa because he looked kind and welcoming. Even though Coca Cola did not invent Santa, their artwork helped set the standard for how he looks today. The red suit, the round belly, and the gentle personality became the style used in movies, books, and decorations. Sundblom’s Santa became one of the most recognizable holiday images in America and helped shape the modern Christmas season.
+As suburbs grew in the mid to late twentieth century, malls became the new gathering places for families during the holiday season. Instead of traveling to downtown stores, people could visit a single location with dozens of shops, food courts, and warm indoor spaces. Malls quickly turned into the center of Christmas shopping, offering convenience and a festive atmosphere that made holiday errands feel more enjoyable.
+### Mall Santas
 
+Mall Santas began with simple charity efforts, often connected to groups like the Salvation Army, and eventually turned into full holiday experiences. Over time, the tradition grew into children sitting with Santa, sharing their wish lists, and taking photos to remember the moment. Today, many malls offer family photo sessions, themed backdrops, and even pet pictures with Santa, turning the visit into a fun event for everyone.
+### Holiday Decorations and Events
 
-### Global Spread of the American Santa
-The American version of Santa spread around the world through movies, advertising, and popular culture.[^bbc] As American holiday traditions became more visible, other countries began blending their own customs with the cheerful red suited Santa. In some places he appears alongside older winter figures, while in others he replaces them entirely. Children enjoy the idea of a kind visitor who brings gifts, and the modern Santa fits easily into many celebrations. His image appears in shopping centers, holiday parades, and television specials across many countries. Even warm climate regions have adopted the American Santa, sometimes giving him local touches like surfboards or summer clothing. The global spread of Santa shows how powerful holiday stories can be. The American Santa has become a symbol of joy and generosity that people recognize everywhere.
+Holiday decorations became a major part of the mall experience, with giant trees, sparkling lights, and seasonal music filling the walkways. Many towns also host lighting ceremonies, school choirs perform in outdoor shopping centers, and drive‑through light displays have become popular family traditions. These events help create a festive atmosphere that makes holiday shopping feel more like a celebration than a chore.
+### Shopping as a Family Tradition
 
-
----
-
-## Global Santa Variants
-No matter where you go in the world, Santa shows up with a different outfit, a different name, and sometimes even a surfboard. But one thing stays the same. Every version of Santa encourages boys and girls to try their best all year. It is never meant to feel strict or scary. It is more like a gentle reminder that kindness, sharing, and good choices make the season brighter. Whether it is Surfing Santa in Australia, Father Christmas in Europe, Santa san in Japan, or the Yule Lads in Iceland, each tradition adds its own style while keeping the same cheerful message
-
-—--
-
-## Santa Does Exsist
-If you ever needed proof that Santa is real, you can find it in Finland. In the snowy town of Rovaniemi, there is a place called Santa Claus Village where the holiday spirit lives all year. Visitors can cross the Arctic Circle, meet Santa in his office, and watch the elves work in a cheerful workshop that looks exactly like the stories. The village is filled with lights, decorations, and winter magic that makes it feel like Santa stepped right out of a book. Families travel from all over the world to send letters from Santa’s official post office and explore the shops and reindeer trails. It is a playful reminder that the joy of Santa is not just a story. It is a real place you can visit, and it keeps the wonder of Christmas alive every day.
-Check out Santa’s Village in Finland: [https://santaclausvillage.info](https://santaclausvillage.info)
-
+For many families, mall shopping became a yearly tradition where everyone could finish their holiday lists in one place. Stores often offered free basic gift wrapping or charged a small fee for premium wrapping with ribbons and decorative paper. Families could shop, take photos, and leave with wrapped gifts all in a single visit, making the mall an easy and memorable part of the Christmas season.
 
 ---
-## Related Pages
+
+## Black Friday and Modern Retail Culture
+
+### Early Origins of Black Friday
+
+Black Friday began as the busy shopping day right after Thanksgiving, when crowds filled stores to start their holiday buying. Over time, the name became linked to the idea of retailers moving “into the black,” meaning they finally turned a profit for the year. What started as a simple shopping rush slowly turned into a major cultural event that signaled the beginning of the Christmas season.
+### Expansion of Holiday Sales
+
+As Black Friday grew, stores began offering bigger discounts, doorbuster deals, and early morning openings to attract shoppers. Retailers realized that the excitement around the day could boost sales for the entire holiday season, so promotions expanded into the whole weekend. This helped turn Black Friday from a single busy day into a multi‑day shopping tradition that families planned around.
+### Record Breaking Black Friday Years
+
+Some years became famous for record‑breaking sales as millions of people shopped both in stores and online. Retailers often reported their highest profits of the year during this weekend, especially when popular electronics or toys were released. These record years showed how powerful holiday shopping had become and how much Black Friday influenced the end‑of‑year economy.
+### Online Shopping and Cyber Monday
+
+With the rise of online shopping, Black Friday expanded beyond physical stores and became a major digital event. Cyber Monday was created to encourage people to shop online, offering deals on electronics, clothing, and holiday gifts. Today, many shoppers skip the crowds entirely and buy everything from home, turning the whole Thanksgiving weekend into a mix of in‑store and online holiday shopping.
+
+---
+## Related Links
+
 - [[history-of-christmas-trees | History of Christmas Trees]]
 - [[history-of-christmas-decorations | History of Christmas Decorations]]
 - [[christmas-pop-culture | Christmas Pop Culture]]
 - [[christmas-around-the-world | Christmas Around the World]]
-- [[holiday-history/united-states-christmas-consumerism| United States Christmas Consumerism]]
+- [[holiday-history/origin-of-today's-american-santa | Origin of Today’s American Santa]]
+- [[united-states-christmas-consumerism|Christmas Consumerism]]
 
+---
 ## Sources
-[^locelves]: Library of Congress. “Santa Claus.” https://www.loc.gov/folklife/holidaycrafts/SantaClaus.html
-[^smithelves]: Smithsonian Magazine. “The Man Who Invented Christmas.” https://www.smithsonianmag.com/history/the-man-who-invented-christmas-180964436/
-[^rudolph]: Smithsonian Institution. “Rudolph the Red Nosed Reindeer.” https://www.si.edu/collections/snapshot/rudolph-red-nosed-reindeer
-[^coke]: Coca Cola Company. “The Evolution of Santa Claus.” https://www.coca-colacompany.com/media-center/the-evolution-of-santa-claus
-[^bbc]: BBC Culture. “How Santa Claus Became a Global Phenomenon.” https://www.bbc.com/culture/article/20161219-how-santa-claus-became-a-global-phenomenon
 
+[^1]: https://www.businessinsider.com/macys-thanksgiving-day-parade-behind-the-scenes-2017-11  
 
+[^2]: https://rv-times.com/2023/11/08/an-in-depth-look-at-the-history-and-costs-of-the-macys-thanksgiving-day-parade/  
+
+[^3]: https://rv-times.com/2023/11/08/an-in-depth-look-at-the-history-and-costs-of-the-macys-thanksgiving-day-parade/  
+
+[^4]: https://jerseykids.net/2025/11/29/macys-2025-holiday-windows/  
+
+[^5]: https://www.6sqft.com/macys-lord-taylor-and-more-the-history-of-new-york-citys-holiday-windows/  
+
+[^6]: https://www.vibenyctours.com/post/the-store-window-that-changed-christmas-forever-and-it-started-in-new-york  
+
+[^7]: https://www.entrepreneur.com/living/macys-holiday-window-designer-shares-3-secrets-for-better/285523  
+
+[^8]: https://macysthanksgiving.fandom.com/wiki/Macy%27s_Santaland  
+
+[^9]: https://www.macys.com/s/holiday-celebrations/nyc-santaland/  
+
+[^10]: https://www.boweryboyshistory.com/2014/12/the-real-miracle-on-34th-street-21.html  
+
+[^11]: https://edition.cnn.com/2013/12/23/business/dear-santa-christmas-letters/  
+
+[^12]: https://www.facebook.com/groups/219886543193788/posts/1415393946976369/  
+
+[^13]: https://floridadaily.com/remembering-sears-wish-book-the-catalog-that-defined-christmas-for-millions/  
+
+[^14]: https://www.yahoo.com/lifestyle/articles/9-things-everyone-remembers-sears-210000771.html  
+
+[^15]: https://www.facebook.com/groups/263922443622093/posts/7520038771343721/  
+
+[^16]: https://www.facebook.com/groups/kannapolishistory/posts/10164505661134241/  
+
+[^17]: https://www.chicagohistory.org/montgomery-ward/  
+
+[^18]: https://www.si.edu/collections/snapshot/rudolph-red-nosed-reindeer  
+
+[^19]: https://performingsongwriter.com/rudolph-rednosed-reindeer/  
+
+[^20]: https://www.latimes.com/business/la-fi-toys-r-us-stores-mga-20190621-story.html
