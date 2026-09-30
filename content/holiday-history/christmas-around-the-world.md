@@ -31,7 +31,7 @@ A night time view of the Dresden Striezelmarkt with bright lights, decorated sta
 - Wooden toys  
 
 ### Krampus and Alpine Folklore
-Krampus is one of the most dramatic parts of the Alpine Christmas season. While Germany and Austria are known for cozy markets and warm lights, the mountains add a wilder twist with Krampus — a horned creature from old folklore who appears in early December. Traditionally, he was connected to Saint Nicholas and was said to scare misbehaving children while Saint Nicholas rewarded the good ones. Today, Krampus is more festive than frightening and has become a major part of winter celebrations.
+Krampus is one of the most dramatic parts of the Alpine Christmas season. While Germany and Austria are known for cozy markets and warm lights, the mountains add a wilder twist with Krampus appears in early December. Traditionally, he was connected to Saint Nicholas and was said to scare misbehaving children while Saint Nicholas rewarded the good ones. Today, Krampus is more festive than frightening and has become a major part of winter celebrations.
 
 Krampus parades, called *Krampuslauf*, take place in early December and are loud, energetic, and full of excitement. People dress in carved wooden masks, fur‑covered costumes, jingling bells, and clattering chains as they run or march through the streets. Crowds gather to watch the chaos, cheer, and enjoy the mix of folklore and fun. These parades have grown in popularity and now appear in other countries as well, but the most famous celebrations still take place in the Alpine regions of Austria and Bavaria.[^krampus]
 
@@ -160,9 +160,6 @@ Boxing Day is celebrated on December 26 and is a big part of the Christmas seaso
 - [[origin-of-today's-american-santa | Origin of Today’s American Santa]]
 - [[holiday-history/united-states-christmas-consumerism | United States Christmas Consumerism]]
 
----
-
-## Sources
 
 [^germany-markets]: Germany Tourism Board. *History of Christmas Markets.*  
 [^dresden-market]: French Moments. “Dresden Christmas Market.” https://frenchmoments.eu/dresden-christmas-market/  

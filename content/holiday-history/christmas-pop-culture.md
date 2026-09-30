@@ -128,7 +128,6 @@ A handful of celebrities celebrate their birthdays on Christmas Eve or Christmas
 
 ---
 
-## Source
 [^gubbio-record]: **Italia.it – 6 Christmas World Records in Italy**  
 https://www.italia.it/en/italy/things-to-do/6-christmas-world-records-in-italy  
 [^rockefeller-tree]: **NSS Magazine – The Story of the Rockefeller Center Christmas Tree**  
