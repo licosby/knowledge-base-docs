@@ -97,14 +97,14 @@ Lemax villages often become interactive displays that kids and adults enjoy watc
 ---
 
 ## Related Pages
-- [[department-56/index|Department 56]]  
-- [[christmas-village/index|Christmas Village]]  
+- [[department-56|Department 56]]  
+- [[christmas-villages/index|Christmas Village]]  
 - [[diy-village|DIY Village]]  
-- [[village-maintenance|Care, Storage & Cleaning]]
+- [[village-maintenance|Village Maintenance]]
 
 ---
 
-## Sources
+
 [^lemax-about]: Lemax Official Website. “About Lemax.” https://www.lemaxcollection.com/about  
 [^lemax-history]: Lemax Official Website. “Our History.” https://www.lemaxcollection.com/about/history  
 [^lemax-themes]: Lemax Official Website. “Villages & Themes.” https://www.lemaxcollection.com/villages  

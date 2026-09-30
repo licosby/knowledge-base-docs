@@ -91,4 +91,5 @@ Warm lighting brings out details and makes DIY pieces blend naturally with store
 - [[department-56|Dept 56]]  
 - [[lemax|Lemax]]  
 - [[village-maintenance|Village Maintenance]]  
-- [[christmas-village/index|Christmas Village]]
+- [[christmas-villages/index|Christmas Village]]
+- [[index|Obsessive Christmas Disorder]]
