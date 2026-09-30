@@ -24,3 +24,9 @@ If the person really like sentimental things find a nice photo they have posted 
 
 Some people prefer a gift that last a while and there is no better gift that offers that than something that creates a lasting memory. Experience gifts are a great option. A trip, a day at the zoo, and amusement parks leave lasting memories for the giver and the receiver. 
 
+---
+# Related Pages
+- [[handmade-gifts|Handmade Gifts]]
+- [[history-of-gift-giving|History of Gift Giving]]
+- [[types-of-christmas-gifts|Types of Christmas Gifts]]
+- [[gift-giving/index|Gift Giving]]

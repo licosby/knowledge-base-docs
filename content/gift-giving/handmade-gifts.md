@@ -1,6 +1,7 @@
 ---
 title: Handmade Gift Ideas
 created: 2026-09-29
+updated: 2026-09-30
 ---
 
 # Handmade Gifts
@@ -14,12 +15,11 @@ Custom gifts can include etched glass, sculpted figures, scrapbooks, memorial it
 - Scrapbooks  
 - Clocks
 - Home decor
-- Sculpted figures  
+- Sculpted ornaments that acknowledge a milestone
+![[clay-ornament.jpg|300]]
 - Memorial recipe plates  
+![[biscuit-plate.jpg|300]]
 - Personalized tumblers  
 - Paper crafts  
 
 If you need a place to find some inspiration or some instructions, Pinterest is a great place to start.
-## Photo Ideas
-- Meg's Ornament
-- Biscuit Plate
