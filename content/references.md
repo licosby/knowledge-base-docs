@@ -81,9 +81,10 @@ This page collects all external sources cited throughout the knowledge base. Eac
 - Box Office Mojo — “The Grinch (2018)” https://www.boxofficemojo.com/title/tt2709692/ Used in: [[holiday-history/christmas-pop-culture]]
 
 ### [[history-of-christmas-decorations|History of Christmas Decorations]]
-- Smithsonian Magazine — “The Strange History of Christmas Decorations” https://www.smithsonianmag.com/history/the-strange-history-of-christmas-decorations-180978123/ Used in: [[holiday-history/history-of-christmas-decorations]]
-- Country Living — “The History of Christmas Decorations” https://www.countryliving.com/life/a45500912/history-of-christmas-decorations/ Used in: [[holiday-history/history-of-christmas-decorations]]
-- Better Homes & Gardens — “History of Christmas Decorations” https://www.bhg.com/christmas/history-of-christmas-decorations/ Used in: [[holiday-history/history-of-christmas-decorations]]
+- Smithsonian Magazine — “The Patents Behind Christmas Lights” (2024)[https://www.smithsonianmag.com/sponsored/patents-behind-christmas-lights-180971071/](https://www.smithsonianmag.com/sponsored/patents-behind-christmas-lights-180971071/?utm_source=copilot.com)
+
+- The Saturday Evening Post — “Common Threads: Christmas Lights, the Most American of Inventions” (2024)[https://www.saturdayeveningpost.com/2024/12/common-threads-christmas-lights-the-most-american-of-inventions/](https://www.saturdayeveningpost.com/2024/12/common-threads-christmas-lights-the-most-american-of-inventions/?utm_source=copilot.com)
+
 
 ### [[history-of-christmas-trees|History of Christmas Trees]]
 - Britannica — “Christmas Tree” https://www.britannica.com/topic/Christmas-tree Used in: [[holiday-history/history-of-christmas-trees]]

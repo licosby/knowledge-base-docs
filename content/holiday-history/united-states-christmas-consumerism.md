@@ -108,7 +108,7 @@ With the rise of online shopping, Black Friday expanded beyond physical stores a
 
 ---
 
-## Sources
+
 [^1]: https://www.businessinsider.com/macys-thanksgiving-day-parade-behind-the-scenes-2017-11  
 [^2]: https://rv-times.com/2023/11/08/an-in-depth-look-at-the-history-and-costs-of-the-macys-thanksgiving-day-parade/  
 [^3]: https://rv-times.com/2023/11/08/an-in-depth-look-at-the-history-and-costs-of-the-macys-thanksgiving-day-parade/  

@@ -17,9 +17,9 @@ Christmas decorations have changed a lot over the years, and each tradition has 
 ## Outdoor Christmas Lights
 
 ### When We Started Decorating Houses
-Outdoor Christmas house decorating didn’t really take off until the early 20th century. People had been placing candles on trees for generations, but lighting the outside of a home wasn’t practical until electric bulbs became safer and weather‑resistant. Early electric Christmas lights appeared in the 1880s thanks to Edison’s company, but they were mostly used indoors or on public trees.[^edison]
+Outdoor Christmas house decorating didn’t really take off until the early 20th century. People had been placing candles on trees for generations, but lighting the outside of a home wasn’t practical until electric bulbs became safer and weather‑resistant. Early electric Christmas lights appeared in the 1880s thanks to Edison’s company, but they were mostly used indoors or on public trees.
 
-As electricity spread into neighborhoods, families slowly began experimenting with outdoor lights. By the late 1920s and 1930s, simple strands around porches and windows became more common.[^menlo] The real boom came after World War II, when suburban homes, mass‑produced lights, and a growing sense of community turned outdoor decorating into a beloved tradition. By the 1950s, entire streets were glowing with color, and friendly neighborhood “who has the best lights” competitions became part of the holiday season.[^postwar]
+As electricity spread into neighborhoods, families slowly began experimenting with outdoor lights. By the late 1920s and 1930s, simple strands around porches and windows became more common. The real boom came after World War II, when suburban homes, mass‑produced lights, and a growing sense of community turned outdoor decorating into a beloved tradition. By the 1950s, entire streets were glowing with color, and friendly neighborhood “who has the best lights” competitions became part of the holiday season.
 
 Today, decorating houses is one of the most joyful and recognizable Christmas customs.
 
@@ -71,7 +71,12 @@ These movies capture the fun, the frustration, and the spectacle of Christmas li
 
 ---
 
+1. Edison’s First Electric Christmas Lights (1880s)
+Smithsonian Magazine — “The Patents Behind Christmas Lights” (2024)
+[https://www.smithsonianmag.com/sponsored/patents-behind-christmas-lights-180971071/](https://www.smithsonianmag.com/sponsored/patents-behind-christmas-lights-180971071/?utm_source=copilot.com)
 
-[^edison]: Edison’s company displayed the first electric Christmas lights in the 1880s.  
-[^menlo]: Menlo Park, California promoted early outdoor home lighting in the late 1920s.  
-[^postwar]: Outdoor decorating surged in the 1950s as suburban neighborhoods expanded.
+2. The Saturday Evening Post — “Common Threads: Christmas Lights, the Most American of Inventions” (2024)
+[https://www.saturdayeveningpost.com/2024/12/common-threads-christmas-lights-the-most-american-of-inventions/](https://www.saturdayeveningpost.com/2024/12/common-threads-christmas-lights-the-most-american-of-inventions/?utm_source=copilot.com)
+
+
+---

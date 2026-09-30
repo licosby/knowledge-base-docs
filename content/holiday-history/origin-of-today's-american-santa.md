@@ -64,7 +64,7 @@ Check out Santa’s Village in Finland: [https://santaclausvillage.info](https:/
 - [[holiday-history/united-states-christmas-consumerism| United States Christmas Consumerism]]
 
 ---
-## Sources
+
 
 [^locelves]: Library of Congress. “Santa Claus.” https://www.loc.gov/folklife/holidaycrafts/SantaClaus.html
 [^smithelves]: Smithsonian Magazine. “The Man Who Invented Christmas.” https://www.smithsonianmag.com/history/the-man-who-invented-christmas-180964436/

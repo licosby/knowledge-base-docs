@@ -89,7 +89,6 @@ Reusable wrapping doesn’t just save waste, it makes your gifts look like they 
 - [[present-presentation/index|Present Presentation]]
 
 ---
-## References
 
 [^1]: BusinessWaste – *Reducing Christmas Wrapping Paper Waste*: https://www.businesswaste.co.uk/seasonal/christmas-waste/reducing-christmas-wrapping-paper-waste/  
 [^2]: GWP – *Christmas Packaging Facts and Waste Statistics*: https://www.gwp.co.uk/guides/christmas-packaging-facts/  
