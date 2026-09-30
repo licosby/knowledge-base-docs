@@ -9,6 +9,12 @@ This page collects all external sources cited throughout the knowledge base. Eac
 ---
 # Christmas Villages
 
+## Department 56
+- Department 56 — “About Department 56” https://www.department56.com/pages/about-us Used in: [[christmas-villages/department-56]]
+- The Village Chronicler — “The Collections” https://www.thevillagechronicler.com/the-collections Used in: [[christmas-villages/department-56]]
+- The Village Chronicler — “The Almanac” https://www.thevillagechronicler.com/the-almanac Used in: [[christmas-villages/department-56]]
+- The Village Chronicler — “The Stacks” https://www.thevillagechronicler.com/the-stacks Used in: [[christmas-villages/department-56]]
+- Department 56 — “Icons in the Village” https://www.department56.com/blogs/news/icons-in-the-village Used in: [[christmas-villages/department-56]]
 ## Lemax Village
 - Lemax Official Website — “About Lemax”  
   https://www.lemaxcollection.com/about
