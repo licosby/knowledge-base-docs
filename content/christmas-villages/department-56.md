@@ -92,21 +92,9 @@ Department 56 started rolling out licensed pieces in the late 1980s and early 19
 ---
 ## Related Pages
 
-- [[christmas-village/department-56|History of Christmas Villages]]
-- [[christmas-village/diy-village|DIY Village]]
-- [[christmas-village/lemax|Lemax Christmas Village]]
-- [[christmas-village/miniature-obsession|miniature obsession]]
-- [[christmas-village/index|Christmas Village]]
-- [[village-maintenance|Care, Storage, and Cleaning]]
-
-
----
-## References
-
-[^1]: Department 56 – Our Story: https://department56.com/pages/our-story  
-[^2]: Bachman’s – https://bachmans.com/corporate/bachmans-history
-[^3]: KSTP Eyewitness News – [https://kstp.com/kstp-news/top-news/so-minnesota-department-56-is-a-christmas-tradition/](https://kstp.com/special-coverage/so-minnesota/so-minnesota-department-56/)
-[^4]: Village Chronicler – The Original Snow Village: https://thevillagechronicler.com/Collections/OSV%20Village%20Header.html
-
----
+- [[diy-village|DIY Village]]
+- [[lemax|Lemax ]]
+- [[christmas-villages/index|Christmas Village]]
+- [[village-maintenance|Village Maintenance]]
+- [[index |Obsessive Christmas Disorder]]
 

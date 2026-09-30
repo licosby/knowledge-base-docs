@@ -130,8 +130,6 @@ Many people save cards for scrapbooks, memory boxes, or holiday displays, making
 
 ---
 
-## Sources
-
 [^cole-hlt]: Historic London Tours. “The Man Who Invented Christmas Cards.” https://historiclondontours.com/tales-of-london/f/the-man-who-invented-christmascards  
 [^whychristmas]: WhyChristmas.com. “History of Christmas Cards.” https://www.whychristmas.com/customs/christmas-cards  
 [^collector]: TheCollector. “How Christmas Cards Came to Be.” 2025. https://www.thecollector.com/history-christmas-cards/  
