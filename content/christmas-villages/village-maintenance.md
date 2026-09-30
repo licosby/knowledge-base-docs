@@ -99,3 +99,4 @@ Small habits like these help villages stay bright and beautiful for decades.
 - [[diy-village|DIY Village]]  
 - [[christmas-villages/index|Christmas Villages]]
 - [[index|Obsessive Christmas Disorder]]
+
