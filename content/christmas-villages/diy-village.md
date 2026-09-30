@@ -16,7 +16,8 @@ DIY Christmas villages are a creative way to build custom pieces that match your
 
 DIY village pieces make it easy to customize your display and create scenery that fits your theme. Houses, terrain, snow, water features, and props can all be made from simple materials.
 
-![Village Setup Guide](village-set-up.jpg|x100)
+![Village Setup Guide](../../assets/images/village-set-up.jpg)
+
 
 ---
 

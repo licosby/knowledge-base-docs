@@ -52,7 +52,7 @@ Key parts of Yule:
 - evergreen branches and wreaths
 - candles and fires
 - big meals
-- winter folklore like the Yule Lads (see holiday/history origin of Santa)
+- winter folklore like the Yule Lads (see [[origin-of-today's-american-santa|Today's Santa]])
 
 Yule matters because it explains where many Christmas symbols came from. It also fills the gap between Saturnalia and early Christian gift customs.
 
