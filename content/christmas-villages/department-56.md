@@ -102,7 +102,7 @@ Department 56 started rolling out licensed pieces in the late 1980s and early 19
 - [[village-maintenance|Village Maintenance]]  
 - [[index |Obsessive Christmas Disorder]]  
 
-## References
+
 [^1]: Department 56 — “About Department 56” https://www.department56.com/pages/about-us  
 [^2]: Bachman’s — “Bachman’s History” https://bachmans.com/corporate/bachmans-history  
 [^3]: KSTP Eyewitness News — “So Minnesota: Department 56 Is a Christmas Tradition” https://kstp.com/special-coverage/so-minnesota/so-minnesota-department-56/  

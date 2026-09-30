@@ -97,4 +97,5 @@ Small habits like these help villages stay bright and beautiful for decades.
 - [[lemax|Lemax Village]]  
 - [[department-56|Department 56]]  
 - [[diy-village|DIY Village]]  
-- [[christmas-village/index|Christmas Village]]
+- [[christmas-villages/index|Christmas Villages]]
+- [[index|Obsessive Christmas Disorder]]

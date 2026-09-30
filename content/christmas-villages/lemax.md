@@ -102,8 +102,6 @@ Lemax villages often become interactive displays that kids and adults enjoy watc
 - [[diy-village|DIY Village]]  
 - [[village-maintenance|Village Maintenance]]
 
----
-
 
 [^lemax-about]: Lemax Official Website. “About Lemax.” https://www.lemaxcollection.com/about  
 [^lemax-history]: Lemax Official Website. “Our History.” https://www.lemaxcollection.com/about/history  
