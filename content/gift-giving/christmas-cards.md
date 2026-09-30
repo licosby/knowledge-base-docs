@@ -55,7 +55,7 @@ Store‑bought cards became mainstream after the 1843 Horsley design and explode
 - mass‑market printing (early 1900s)
 - Hallmark’s rise in the 1910s–1920s
 
-![[assets/images/christmas-cards.jpeg|x200]]
+(christmas-cards.jpeg)|x200]]
 
 Modern store‑bought cards include:
 - boxed sets
