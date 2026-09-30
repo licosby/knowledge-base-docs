@@ -100,7 +100,7 @@ Lemax villages often become interactive displays that kids and adults enjoy watc
 - [[department-56/index|Department 56]]  
 - [[christmas-village/index|Christmas Village]]  
 - [[diy-village|DIY Village]]  
-- [[care-storage-cleaning|Care, Storage & Cleaning]]
+- [[village-maintenance|Care, Storage & Cleaning]]
 
 ---
 

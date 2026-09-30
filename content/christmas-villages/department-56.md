@@ -97,7 +97,7 @@ Department 56 started rolling out licensed pieces in the late 1980s and early 19
 - [[christmas-village/lemax|Lemax Christmas Village]]
 - [[christmas-village/miniature-obsession|miniature obsession]]
 - [[christmas-village/index|Christmas Village]]
-- [[care-storage-cleaning|Care, Storage, and Cleaning]]
+- [[village-maintenance|Care, Storage, and Cleaning]]
 
 
 ---

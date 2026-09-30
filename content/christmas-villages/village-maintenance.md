@@ -1,5 +1,5 @@
 ---
-title: Care, Storage, and Cleaning
+title: Village Maintence
 description: ' "Covers how to pack, store, clean, and maintain Christmas village pieces so they last for years. Focuses on simple routines, safe handling, and avoiding the common mistakes that ruin paint, lights, or delicate details."'
 created: 2026-09-26
 ---
