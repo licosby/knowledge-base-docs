@@ -47,3 +47,8 @@ People often pick gift types based on personality, age, interests, or traditions
 
 ### Holiday Trends
 Many families mix different gift types each year. Popular trends include experience gifts, personalized items, and handmade crafts that feel more meaningful than standard store bought presents.
+
+- [[choosing-the-right-gift |Pick the Right Gift]]
+- [[types-of-christmas-gifts |Types of Gifts]]
+- [[handmade-gifts | Handmade Gifts]]
+- [[index |Obsessive Christmas Disorder Home]]
