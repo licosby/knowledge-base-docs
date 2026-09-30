@@ -71,7 +71,7 @@ These movies capture the fun, the frustration, and the spectacle of Christmas li
 
 ---
 
-## References
+
 [^edison]: Edison’s company displayed the first electric Christmas lights in the 1880s.  
 [^menlo]: Menlo Park, California promoted early outdoor home lighting in the late 1920s.  
 [^postwar]: Outdoor decorating surged in the 1950s as suburban neighborhoods expanded.
