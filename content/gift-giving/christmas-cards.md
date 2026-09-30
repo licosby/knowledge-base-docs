@@ -16,6 +16,7 @@ Christmas cards are one of the most recognizable holiday traditions, blending pe
 ### Early Origins
 The earliest known Christmas‑like greeting was sent in **1534**, but the first item resembling a Christmas card appeared in **1611**, created for King James I of England. It was a large, ornate manuscript folded into panels and decorated with a rose motif. [ C](https://www.whychristmas.com/customs/christmas-cards?copilot_analytics_metadata=eyJldmVudEluZm9fY2xpY2tTb3VyY2UiOiJjaXRhdGlvbkxpbmsiLCJldmVudEluZm9fY29udmVyc2F0aW9uSWQiOiJaNXJNRnc4UlhGUmFCaWk3S0RpOFQiLCJldmVudEluZm9fbWVzc2FnZUlkIjoiU3ZtTGhzOEpCZlg5azFxcUszVG1qIiwiZXZlbnRJbmZvX2NsaWNrRGVzdGluYXRpb24iOiJodHRwczpcL1wvd3d3LndoeWNocmlzdG1hcy5jb21cL2N1c3RvbXNcL2NocmlzdG1hcy1jYXJkcyJ9&citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1)
 
+
 ![[first-card.jpg|300]]
 
 *First Christmas Card was made for King James[D]( https://historiclondontours.com/tales-of-london/f/the-man-who-invented-christmascards)
