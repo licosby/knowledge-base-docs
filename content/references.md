@@ -43,7 +43,10 @@ This page collects all external sources cited throughout the knowledge base. Eac
 - WMUR — “Postal Service Faces Cash Crunch Amid Declining Mail”  
   https://www.wmur.com/article/postal-service-cash-crunch-mail-decline/61234567
 
----
+## History of Gift Giving
+- English Heritage – Why Do We Give Gifts at Christmas?- https://www.english-heritage.org.uk/visit/inspire-me/why-do-we-give-gifts-at-christmas/
+- Crystallyn Substack – Ancient Roman Origins of Christmas Gift Giving- https://crystallyn.substack.com/p/the-surprising-ancient-roman-origins
+- History.com – Saturnalia- https://www.history.com/articles/saturnalia
 
 ---
 
@@ -104,6 +107,14 @@ This page collects all external sources cited throughout the knowledge base. Eac
 
 ---
 # Present Presentation
+
+## Reusable Wapping
+- BusinessWaste – *Reducing Christmas Wrapping Paper Waste*: https://www.businesswaste.co.uk/seasonal/christmas-waste/reducing-christmas-wrapping-paper-waste/  
+- GWP – *Christmas Packaging Facts and Waste Statistics*: https://www.gwp.co.uk/guides/christmas-packaging-facts/  
+- AllThingsSupplyChain – *The Wrapping Paper Waste Problem*: https://www.allthingssupplychain.com/the-wrapping-paper-waste-problem-and-what-can-be-done-about-it/  
+- ChristmasTreeWorld – *How Much Do We Use At Christmas?*: https://www.christmastreeworld.co.uk/blog/how-much-do-we-use-at-christmas?srsltid=AU7gw4U3n5PxcoWQVepEP9UO2wphusMeQIaUIBt2i_TYPveX6DKjhVmN  
+- WasteMission – *Christmas Waste Facts*: https://wastemission.com/blog/christmas-waste-facts/  
+- EnvironmentJournal – *Sticky Tape Used at Christmas Could Wrap Around the World 499 Times*: https://environmentjournal.online/features/the-amount-of-sticky-tape-used-at-christmas-could-wrap-around-the-world-499-times/
 
 ## Wrapping Paper Fun Facts
 - Gitnux — “Holiday Waste Statistics 2026”  

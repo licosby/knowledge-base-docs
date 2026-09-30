@@ -92,12 +92,12 @@ In the early 20th century, Christmas gift giving shifted toward convenience and 
 - Macy’s parade and store traditions
 
 ## Related Links
-- [[gift-giving/index|Gift Giving Index]]
-
+- [[gift-giving/index|Gift Giving]]
+- [[handmade-gifts|Handmade Gifts]]
 
 ---
 ## Sources
-- English Heritage – Why Do We Give Gifts at Christmas?
-- Crystallyn Substack – Ancient Roman Origins of Christmas Gift Giving
-- History.com – Saturnalia
+- English Heritage – Why Do We Give Gifts at Christmas?- https://www.english-heritage.org.uk/visit/inspire-me/why-do-we-give-gifts-at-christmas/
+- Crystallyn Substack – Ancient Roman Origins of Christmas Gift Giving- https://crystallyn.substack.com/p/the-surprising-ancient-roman-origins
+- History.com – Saturnalia- https://www.history.com/articles/saturnalia
 
