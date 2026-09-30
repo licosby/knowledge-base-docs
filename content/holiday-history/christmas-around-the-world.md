@@ -58,16 +58,26 @@ This celebration is calm and cozy. Families focus on spending time together, enj
 During the Christmas season, Dutch winter markets fill with warm drinks, lights, and sweet treats — and stroopwafels are one of the most popular things people enjoy there. Stroopwafels are a Dutch treat made from two thin waffle cookies with warm caramel syrup in the center. They originated in Gouda in the eighteenth century and became a popular winter market food. People often warm them over a cup of coffee so the caramel softens. Stroopwafels are now sold worldwide but remain a favorite at Dutch holiday markets.[^stroopwafel]
 
 #### Popular Stroopwafel Flavors
-* Classic Caramel  
-* Chocolate  
-* Honey  
-* Speculaas Spice  
-* Coffee Caramel  
-* Maple  
-* Vanilla  
-* Hazelnut  
-* Salted Caramel  
-* Chocolate Dipped  
+* Classic Caramel 
+The original favorite with warm gooey caramel that softens perfectly over a hot drink.
+* Chocolate
+A rich chocolate filling that makes the stroopwafel taste like a cookie and candy combined.
+- Honey
+A lighter and floral sweetness that feels smooth and natural.
+* Speculaas Spice
+A Dutch holiday flavor with cinnamon, nutmeg, and clove that tastes like Christmas.
+* Coffee Caramel
+A deeper caramel with a hint of coffee that pairs perfectly with a warm mug.
+* Maple
+Sweet and buttery with a flavor similar to breakfast syrup.
+* Vanilla
+Soft and mellow with a gentle sweetness that keeps things simple.
+* Hazelnut
+Nutty and smooth with a flavor similar to chocolate hazelnut spread.
+* Salted Caramel
+A sweet and salty twist that has become a modern favorite.
+* Chocolate Dipped
+A classic stroopwafel dipped in chocolate for extra crunch and sweetness.
 
 ---
 

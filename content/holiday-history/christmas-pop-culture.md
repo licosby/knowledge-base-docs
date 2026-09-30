@@ -7,7 +7,8 @@ updated: 2026-09-29
 # Christmas in Pop Culture
 
 ## Overview
-A collection of surprising, quirky, and global Christmas facts — the kind of things people bring up during holiday conversations or while watching movies with family.
+
+A collection of surprising, quirky, and global Christmas facts.
 
 > “That is what Christmas memories are made from. They are not planned. They are not scheduled. Nobody puts them in their Blackberry. They just happen.”  
 > — Kelly Finch, *Deck the Halls* (2006)
@@ -100,6 +101,7 @@ The Rockefeller Center tree tradition began in 1933. Since 1951, the lighting ce
 
 Gubbio has held the Guinness World Record for the world’s biggest Christmas tree since 1991.[^gubbio-record]
 
+![[italian-tree.jpeg|x300]]
 For more background, visit the [[history-of-christmas-trees | History of Christmas Trees]] page.
 
 ---
