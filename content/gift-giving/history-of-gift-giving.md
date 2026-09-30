@@ -93,11 +93,7 @@ In the early 20th century, Christmas gift giving shifted toward convenience and 
 
 ## Related Links
 - [[gift-giving/index|Gift Giving Index]]
-- [[gift-giving/types-of-gifts/index|Types of Christmas Gifts]]
-- [[gift-giving/choosing-the-right-gift/index|Choosing the Right Gift]]
-- [[gift-giving/customizing-store-bought-gifts/index|Customizing Store‑Bought Gifts]]
-- [[gift-giving/handmade-and-custom-gifts/index|Handmade & Custom Gifts]]
-- [[gift-giving/gift-choosing-worksheet/index|Gift‑Choosing Worksheet]]
+
 
 ---
 ## Sources

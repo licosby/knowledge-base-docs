@@ -23,3 +23,11 @@ Custom gifts can include etched glass, sculpted figures, scrapbooks, memorial it
 - Paper crafts  
 
 If you need a place to find some inspiration or some instructions, Pinterest is a great place to start.
+
+---
+# Related Pages
+- [[choosing-the-right-gift|Selecting the Perfect Gift]]
+- [[history-of-gift-giving|History of Gift Giving]]
+- [[types-of-christmas-gifts|Types of Christmas Gifts]]
+- [[gift-giving/index|Gift Giving]]
+- [[index|Obsessive Christmas Disorder]]
