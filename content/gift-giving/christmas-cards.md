@@ -19,7 +19,7 @@ The earliest known Christmas‑like greeting was sent in **1534**, but the first
 ![[first-card.jpg|300]]
 
 
-*First Christmas Card was made for King James [D]( https://historiclondontours.com/tales-of-london/f/the-man-who-invented-christmascards)
+*First Christmas Card was made for King James* [D]( https://historiclondontours.com/tales-of-london/f/the-man-who-invented-christmascards)
 
 The first *commercial* Christmas card was commissioned in **1843** by Sir Henry Cole, a British civil servant who helped establish the Uniform Penny Post. He was overloaded with letters and it would have been rude not to respond to each one.  Cole asked artist **John Callcott Horsley** to design a card that could be printed and mailed easily. The card featured a family toasting in the center panel and charitable scenes on the sides. Cole printed 1,000 copies and sold the extras for one shilling each. [ D]( https://historiclondontours.com/tales-of-london/f/the-man-who-invented-christmascards)
 
