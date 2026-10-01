@@ -1,11 +1,11 @@
 ---
 title: Holiday Decor
+created: 2026-09-30
 ---
-## Holiday Decor
 
-### What is this page?
+# Holiday Decor
 
-This page explorers different ways to decorate. This will showcase different ideas of easy decor that you can make by hand or embellish to give them just a nice personal touch. Your house will be the envy of all your friends after looking through this category.
+Holiday décor sets the mood for the entire season, from the glow of Christmas lights to the way a tree is styled and displayed. This section explores how people decorate their homes for Christmas and how those styles evolve over time. More topics will be added here as the category grows.
 
-## Related Categories
-The designs and materials used in these [[holiday-history/index|historical holiday traditions]] influenced modern décor styles.
+## Pages in This Category
+- [[christmas-tree-styles-and-trends|Christmas Tree Styles and Trends]]
