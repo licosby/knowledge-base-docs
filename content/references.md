@@ -106,6 +106,20 @@ This page collects all external sources cited throughout the knowledge base. Eac
 ---
 # Holiday Decor
 
+### [[tree-styles-trends| Christmas Tree Styles & Trends]]
+
+- Elle Decor, “75 Editor Approved Christmas Tree Decorating Ideas”  
+   https://www.elledecor.com/design-decorate/g2797/christmas-tree-ideas/
+- HISTORY, “100 Years of Christmas Tree Trends in Photos”  
+   https://www.history.com/articles/christmas-tree-trends
+- Magnolia, “3 Ways to Style Your Christmas Tree”  
+   https://magnolia.com/blogs/article/christmas-tree-styles
+- Studio McGee, “How to Decorate a Studio McGee Style Christmas Tree”  
+   https://www.studio-mcgee.com/read/how-to-decorate-christmas-tree
+- Real Christmas Tree Board, “Tree Guide”  
+   https://realchristmastreeboard
+
+
 ---
 # Present Presentation
 
